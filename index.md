@@ -25,6 +25,7 @@ You can browse our source code and contribute to the project [on Github][glitch-
 - [`data-*` attributes on statuses](./features/status-data-attributes/) for custom CSS targeting
 - [Advanced theming via flavours+skins](./features/themes/)
 - [Doodle](./features/doodle/)
+- [Custom settings](./features/custom-settings/)
 
 ### Features that have made their way upstream
 
